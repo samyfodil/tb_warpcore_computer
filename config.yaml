@@ -1,0 +1,5 @@
+id: QmSkwsd9AkA4s36oqxybX4YGqc2sDtcqeMB9cr43GoazBS
+name: warpcore_computer
+description: Regulates the warp core of the USS Enterprise
+notification:
+    email: support@taubyte.com
